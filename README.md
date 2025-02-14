@@ -1,4 +1,4 @@
-**Tic-Tac-Toe Web Application – A Premium Gaming Experience**  
+##Tic-Tac-Toe Web Application – A Premium Gaming Experience  
 
 This interactive Tic-Tac-Toe game is designed with a sleek and engaging user experience, incorporating visually appealing aesthetics and smooth gameplay. Developed using **HTML, CSS, and JavaScript**, the project ensures a seamless and responsive interface, hosted on **GitHub Pages** for easy access.  
 
