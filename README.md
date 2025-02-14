@@ -20,6 +20,4 @@ This interactive Tic-Tac-Toe game is designed with a sleek and engaging user exp
 - **JavaScript** – Handling game logic, user interactions, win/draw conditions, and confetti animation.  
 - **GitHub Pages** – Hosting the project for seamless web accessibility.  
 
-**Live Demo:** [Insert your website link]  
-
 This project blends functionality and design, offering a modern and engaging Tic-Tac-Toe experience.
