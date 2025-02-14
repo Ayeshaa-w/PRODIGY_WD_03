@@ -12,7 +12,7 @@ This interactive Tic-Tac-Toe game is designed with a sleek and engaging user exp
 ✅ **Confetti Celebration Effect** – A visually appealing **confetti animation** appears at the center of the screen for **3 seconds** when a player wins or the game ends in a draw.  
 ✅ **Mobile & Desktop Responsive** – The interface adapts well across different screen sizes.  
 ✅ **Hosted on GitHub Pages** – Easily accessible with no additional installations required.  
---
+
 ### **Technologies Used:**  
 
 🔹 **HTML** – Structuring the webpage and game layout.  
